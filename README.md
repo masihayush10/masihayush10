@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".freedom-banner.jpg" width="100%" alt="Attack on Titan banner">
+  <img src="./freedom-banner.jpg" width="100%" alt="Attack on Titan banner">
 </div>
 # Hi, I'm Ayush 👋
 
