@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="./banner.jpg" width="100%" alt="profile banner">
-</div>
 # Hi, I'm Ayush 👋
 
 I'm pursuing a BS in Data Science at IIT Madras.
