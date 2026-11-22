@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**masihayush10/masihayush10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ayush 👋
 
-Here are some ideas to get you started:
+I'm pursuing a BS in Data Science at IIT Madras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a strong interest in Robotics and Artificial Intelligence, and I enjoy exploring how technology can be used to build intelligent systems.
+
+### Technical Skills
+- Python
+- HTML
+- CSS
+
+### Areas of Interest
+- Robotics and Autonomous Systems
+- Artificial Intelligence and Machine Learning
+- Reinforcement Learning
+- Multi-Agent Systems
+- Robot Perception
+- Artificial General Intelligence (AGI)
+
+### Currently Exploring
+- Machine Learning
+- Robotics
+- Intelligent Autonomous Systems
+
+### Connect with Me
+- LinkedIn: [Ayush](https://linkedin.com/in/ayushmasih10)
